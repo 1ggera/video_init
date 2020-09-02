@@ -1,0 +1,7 @@
+/*creamos un objeto con las configuraciones que previamente instalamos*/
+{
+    "presets": [
+        "@babel/preset-env", /*nos sirve para trabajar con Ecmascript 5 y 6*/
+        "@babel/preset-react" /*nos sirve para trabajar con JSX y React*/
+    ]
+}
