@@ -1,7 +1,8 @@
 # video_init
 Proyecto de App en React de videos públicitarios
 
-*Para correr la aplicación*
+# Para correr la aplicación
+
 1 Clona el repositorio.
 
 2 Ve a la carpeta del proyecto: cd video_init.
